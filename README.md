@@ -1,2 +1,2 @@
 # url-shortner
-This is a project shortened the URLs 
+This is a project to shortened the URLs 
